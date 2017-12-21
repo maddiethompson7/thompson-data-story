@@ -93,7 +93,7 @@ width: 275px;
 position: relative;
 float:right;
 margin-left: 50px;
-background: url(assets/images/mysvg.jpg);
+background: url("assets/images/mysvg.jpg");
 border: 1px solid black;
 }
 
